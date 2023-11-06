@@ -4,7 +4,11 @@
 
 - 📫 How to reach me **asmamalica07@gmail.com**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asma-malica&show_icons=true&locale=en&layout=compact" alt="asma-malica" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asma-malica&show_icons=true&locale=en" alt="asma-malica" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asma-malica&" alt="asma-malica" /></p>
 
 
 
