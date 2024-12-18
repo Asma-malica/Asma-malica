@@ -1,4 +1,7 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm ASMA MALICA</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+# ✨ About Me:
 🔭 I’m currently focusing on leveraging my extensive knowledge to build a strong foundation in the software industry.<br>📫 How to reach me asmamalica07@gmail.com<br>👨‍💻 All of my projects are available at https://portfolio-asmamalica.vercel.app/<br>📄 Know about my experiences https://drive.google.com/file/d/1XJib25ZX82Vr5Ngu0_MEz44-LzQcqvNt/view<br>
 
 
