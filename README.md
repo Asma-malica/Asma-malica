@@ -2,10 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # ✨ About Me:
-🔭 I’m currently focusing on leveraging my extensive knowledge to build a strong foundation in the software industry.<br>  
-📫 How to reach me: [Mail](mailto:asmamalica07@gmail.com)<br>  
-👨‍💻 All of my projects are available at [my portfolio](https://portfolio-asmamalica.vercel.app/project)<br>
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XJib25ZX82Vr5Ngu0_MEz44-LzQcqvNt/view)<br>
+
+🔭 I’m currently focusing on leveraging my extensive knowledge to build a strong foundation in the software industry.  
+📫 How to reach me: [Mail](mailto:asmamalica07@gmail.com)  
+👨‍💻 All of my projects are available at [my portfolio](https://portfolio-asmamalica.vercel.app/project)  
+📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1XJib25ZX82Vr5Ngu0_MEz44-LzQcqvNt/view)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asma-malica/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27164843/asma-malica) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/asma_malica) 
