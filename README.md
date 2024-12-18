@@ -4,7 +4,7 @@
 # ✨ About Me:
 🔭 I’m currently focusing on leveraging my extensive knowledge to build a strong foundation in the software industry.<br>  
 📫 How to reach me: [Mail](mailto:asmamalica07@gmail.com)<br>  
-👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-asmamalica.vercel.app/project)<br>
+👨‍💻 All of my projects are available at [my portfolio](https://portfolio-asmamalica.vercel.app/project)<br>
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XJib25ZX82Vr5Ngu0_MEz44-LzQcqvNt/view)<br>
 
 ## 🌐 Socials:
